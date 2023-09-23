@@ -1,5 +1,6 @@
 # Hi, I'm [Gazal]! 👋
 ### Programmer, Cybersecurity Professional, YouTuber 🎥
+![Clousecurity Image](cloudimage.jpg)
 
 Welcome to my GitHub profile! I'm passionate about software development, cybersecurity, and sharing my knowledge through YouTube. Below you'll find a list of some of my notable projects and popular YouTube videos.
 
