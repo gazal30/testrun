@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about software development, cyberse
 - [Python Package Delivery Application (Datastructures and Algorithms Demo)](link)
 
 ## 📺 Popular YouTube Videos:
-- [How to get into Cybersecurity Starting From Zero](link)
+- [How to get into Cybersecurity Starting From Zero](https://docs.google.com/document/d/e/2PACX-1vQpEeDsnpQdT3asZ1c3EiJhT8NhzpJ8NhmnOX7LOVWby_JkSm9PC6MrBCwoc88rnQwsohtX14BeWp0l/pub)
 - [A Day in the Life of a Cybersecurity Analyst](link)
 - [How to Create a KeyLogger (C#)](link)
 - [Ransomware Demonstration (C#)](link)
