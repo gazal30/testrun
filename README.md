@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about software development, cybersecurity, and sharing my knowledge through YouTube. Below you'll find a list of some of my notable projects and popular YouTube videos.
 
 ## 👨‍💻 Software Development Projects:
-- [Data Structures and Algorithms Practice (AlgoExpert)](https://www.whizlabs.com/learn/course/aws-solutions-architect-associate/153/lab)
+- [Data Structures and Algorithms Practice (AlgoExpert)](https://docs.google.com/document/d/e/2PACX-1vSNRHxTI63kbR1xsPZj_mEqNMYf2zAIJiul4pRYhlQpzX57QZrDfFw9-WX2V51xKNAsFkQr6ZBCUQxg/pub)
 - [Practicing DS & Algos in Python](link)
 - [Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)](link)
 - [Image Analysis Middleware (Potentially NSFW)](link)
